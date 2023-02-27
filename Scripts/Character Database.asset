@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e4da621a7f30094999ce63b1b3128aa, type: 3}
+  m_Name: Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Roi
+    characterSprite: {fileID: -2009948435, guid: c920a66346f22e449828497c16dfcffa, type: 3}
+    characterAnimator: Animations/Player
+  - characterName: Lucy
+    characterSprite: {fileID: 1942448072, guid: e62ae843fcd0b9e4bb85bc5827c4d288, type: 3}
+    characterAnimator: Animations/PlayerBlue
+  - characterName: Marney
+    characterSprite: {fileID: 1853616587, guid: 167e1e0bd73ac9948a7831056e61c5fb, type: 3}
+    characterAnimator: Animations/PlayerMarney
+  - characterName: King Roi
+    characterSprite: {fileID: 1012128075, guid: 10fff50577ac5a04f981924adbc8a753, type: 3}
+    characterAnimator: Animations/PlayerKingRoi
+  - characterName: Spicy Cucumber
+    characterSprite: {fileID: 394859940, guid: 0f9f1c5b91b575042957e5d69746cc54, type: 3}
+    characterAnimator: Animations/PlayerXiaoHuangGua
+  - characterName: Citeh
+    characterSprite: {fileID: -449373485, guid: ff5d28ceed090aa439a253895c59172d, type: 3}
+    characterAnimator: Animations/PlayerCiteh
+  - characterName: Rojo Roi
+    characterSprite: {fileID: 2060666940, guid: cd63ce06e8e98ee46b256e3f925d648f, type: 3}
+    characterAnimator: Animations/PlayerDarrow
+  - characterName: Royale with Cheese
+    characterSprite: {fileID: -194607194, guid: b847624895902e24280515a939713cf1, type: 3}
+    characterAnimator: Animations/PlayerRoyale
